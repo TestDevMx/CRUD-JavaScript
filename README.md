@@ -1,6 +1,6 @@
-# Webpack Starter
+# CRUD JavaScript
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Aplicación de CRUD basica.
 
 ### Notas:
 
